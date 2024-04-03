@@ -1,6 +1,7 @@
 # Talent-Land-2024
 
 This is the README file for my presentation: *The Art of Cloud Cybersecurity*
+
 Below are all the links, articles, mentions, videos and references that the presentation has
 
 ## Resources
